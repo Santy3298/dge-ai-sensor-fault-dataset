@@ -1,1 +1,1 @@
-# dge-ai-sensor-fault-dataset
+# edge-ai-sensor-fault-dataset
